@@ -15,5 +15,5 @@ console.log('sum ', sum)
 const num1 = 10;
 const num2 = 40;
 
-const multiply = num1 * num2;
+const multiply = num1*num2;
 console.log(multiply)
