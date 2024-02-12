@@ -21,3 +21,15 @@ console.log(text3.match("ain"));
 // it return true or false
 let text4 = "Hello world, welcome to the universe.";
 console.log(text4.includes("world"))
+
+
+// JavaScript String startsWith()
+
+let text5 = "Hello world, welcome to the universe.";
+console.log(text5.startsWith("Hello"));
+
+// JavaScript String endsWith()
+
+
+let text6 = "Hello world, welcome to the universe.";
+console.log(text6.endsWith("Hello"));
