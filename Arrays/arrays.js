@@ -1,6 +1,6 @@
 const cars = ["volvo", "bmw", "audi"];
 console.log(cars)
-
+// arrays
 cars[0] = "mercedeze";
 console.log(cars)
 
